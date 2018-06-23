@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+   android:paddingBottom="15dp"
+    android:paddingTop="15dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:clickable="true"
+        android:focusableInTouchMode="true"
+        android:id="@+id/bg_ll"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:gravity="center"
+        android:background="@drawable/cb_d_bg_sp_subscribe_normal"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <CheckBox
+            android:checked="false"
+            android:background="@android:color/transparent"
+            android:id="@+id/item_select_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/cb_d_sc_subscribe"
+            android:gravity="center"
+            android:text="222222"
+            android:textColor="@color/cb_c_sc_subscribe" />
+    </LinearLayout>
+
+
+    <!--
+    android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+    -->
+    <!-- android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+         android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        -->
+
+</LinearLayout>

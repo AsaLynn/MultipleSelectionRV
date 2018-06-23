@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--安卓第4月,周考3,测试题-->
+    <string-array name="test6_week3_dialog1_items">
+        <item>测试-2018.03.26</item>
+        <item>测试-demo</item>
+        <item>测试</item>
+        <item>测试</item>
+    </string-array>
+    <!--安卓第4月,周考3,测试题-->
+    <string-array name="test4_week3_dialog1_items">
+        <item>测试-2018.03.26</item>
+        <item>测试-demo</item>
+        <item>测试</item>
+        <item>测试</item>
+    </string-array>
+    <!--安卓第3月,周考3,测试题-->
+    <string-array name="test3_week3_dialog1_items">
+        <item>测试-2018.01.15</item>
+        <item>测试-2018.03.03</item>
+        <item>测试-2018.03.26</item>
+        <item>测试</item>
+        <item>测试</item>
+        <item>测试</item>
+    </string-array>
+
+    <string-array name="items">
+        <item>测试01-2018.03.12</item>
+        <item>测试02-2018.03.19</item>
+        <item>测试03</item>
+        <item>测试04</item>
+        <item>测试05</item>
+        <item>测试06</item>
+        <item>测试07</item>
+        <item>测试08</item>
+        <item>测试09</item>
+        <item>测试10</item>
+    </string-array>
+
+    <string-array name="buttons">
+        <item>@string/page_num1</item>
+        <!--<item>测试题页面2</item>-->
+    </string-array>
+</resources>

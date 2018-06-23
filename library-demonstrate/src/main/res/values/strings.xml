@@ -1,0 +1,24 @@
+<resources>
+    <!--试卷名称-->
+    <string name="test1_name">交互设计</string>
+    <string name="test2_name">次世代数据</string>
+    <string name="test3_name">智能硬件</string>
+    <string name="test4_name">安全攻防</string>
+    <string name="test5_name">项目模块</string>
+    <string name="test6_name">核心原理</string>
+    <!--各周考标记-->
+    <string name="week_num1">周考1</string>
+    <string name="week_num2">周考2</string>
+    <string name="week_num3">周考3</string>
+    <string name="week_num4">周考4</string>
+    <!--各页面标记-->
+    <string name="page_num1">技能列表1</string>
+    <string name="page_num2">技能列表2</string>
+    <string name="page_num3">技能列表3</string>
+    <string name="page_num4">技能列表4</string>
+
+    <!--考试批次-->
+    <string name="test_date">测试-2018.03.26</string>
+
+
+</resources>

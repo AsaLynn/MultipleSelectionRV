@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/c_f1f1f1"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="5dp">
+
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <CheckBox
+        android:checked="false"
+        android:background="@android:color/transparent"
+        android:id="@+id/title_checke_all_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@null"
+        android:text="@string/cb_select_all_checed"
+        android:textColor="@color/cb_c_sc_check_all" />
+
+
+</LinearLayout>
