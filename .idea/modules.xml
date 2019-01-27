@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestWeek0603.iml" filepath="$PROJECT_DIR$/TestWeek0603.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleSelectionRV.iml" filepath="$PROJECT_DIR$/MultipleSelectionRV.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/library-demonstrate/library-demonstrate.iml" filepath="$PROJECT_DIR$/library-demonstrate/library-demonstrate.iml" />

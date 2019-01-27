@@ -39,4 +39,6 @@ dependencies {
     //要添加此依赖否则事件无法响应
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     implementation project(':library-demonstrate')
+    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.36'
+    api 'com.zxn.divider:dividerlibrary:1.0.2'
 }
