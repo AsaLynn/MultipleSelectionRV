@@ -3,17 +3,18 @@
 
     <!--安卓第4月,周考3,测试题-->
     <string-array name="test6_week3_dialog1_items">
-        <item>测试-2018.03.26</item>
-        <item>测试-demo</item>
+        <item>多条目布局多选效果</item>
+        <item>多条目布局多选效果切换页面</item>
         <item>测试</item>
         <item>测试</item>
     </string-array>
     <!--安卓第4月,周考3,测试题-->
     <string-array name="test4_week3_dialog1_items">
-        <item>测试-2018.03.26</item>
-        <item>测试-demo</item>
-        <item>测试-多选</item>
-        <item>测试</item>
+        <item>多条目布局多选效果</item>
+        <item>多条目布局多选效果切换页面</item>
+        <item>多选效果</item>
+        <item>单选效果无取消选中效果</item>
+        <item>单选后再次点击取消选中</item>
     </string-array>
     <!--安卓第3月,周考3,测试题-->
     <string-array name="test3_week3_dialog1_items">

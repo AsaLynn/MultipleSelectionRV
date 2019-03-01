@@ -92,7 +92,6 @@ public class MultipleActivity extends AppCompatActivity {
                         adapter.setNewData(entity.result);
                     }
                 });
-
             }
         });
 

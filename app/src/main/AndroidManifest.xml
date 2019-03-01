@@ -11,6 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.ActionBar">
+        <activity android:name=".activity.SingleSelectCancleActivity"></activity>
+        <activity android:name=".activity.SingleSelectionActivity" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
@@ -28,7 +30,7 @@
             android:name=".activity.Test1Activity"
             android:label="Test1Activity"
             android:theme="@style/AppTheme.ActionBar" />
-        <activity android:name=".activity.MultipleActivity"></activity>
+        <activity android:name=".activity.MultipleActivity" />
     </application>
 
 </manifest>

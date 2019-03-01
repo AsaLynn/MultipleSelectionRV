@@ -6,6 +6,8 @@ import com.example.demonstrate.adapter.testname.p1.w3.BaseT6P1W3ILis;
 import com.example.my01.MainActivity;
 import com.example.my01.R;
 import com.example.my01.activity.MultipleActivity;
+import com.example.my01.activity.SingleSelectCancleActivity;
+import com.example.my01.activity.SingleSelectionActivity;
 import com.example.my01.activity.Test1Activity;
 
 /**
@@ -27,8 +29,11 @@ public class PageItemLis1 extends BaseT6P1W3ILis {
             return MainActivity.class;
         }else if (which == 2) {
             return MultipleActivity.class;
+        }else if (which == 3) {
+            return SingleSelectionActivity.class;
+        }else if (which == 4) {
+            return SingleSelectCancleActivity.class;
         }
-
         return null;
     }
 
